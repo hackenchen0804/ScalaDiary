@@ -20,5 +20,28 @@
 ![](general_limit_adjust_after_dn_detail_3.0f1.jpg)
 ![](general_limit_adjust_after_invoice_detail_3.0f1.jpg)
 
-* 系统增强GL transaction发生错误，数据库数据回滚（与422区别？，等待回复）
+* 系统增强GL transaction发生错误（主要是凭证自身问题，如Consolidate Transaction），数据库数据回滚。
 ![](general_transaction_errors_rollback_3.0f3.jpg)
+
+* 系统增加Audit功能，用于记录字段变化历史的跟踪。
+  1. 设置Audit基本参数，包括建立独立的数据库和更新频率。
+![](general_create_and_schedule_audit_db_3.2.jpg)
+![](general_select_audit_content_3.2.jpg)
+  2. 查看Audit结果的3中方法，包括通过字段查询，通过功能查询和通过Admin console查询。
+![](general_audit_view_with_field_3.2.jpg)
+![](general_audit_view_with_field_detail_3.2.jpg)
+![](general_audit_view_with_function_3.2.jpg)
+![](general_audit_view_with_function_detail_3.2.jpg)
+![](general_audit_view_with_admin_console_3.2.jpg)
+
+* <font color="red">系统增加自动运行功能，包括关闭发票，Post凭证等等。（无License）</font><br/>
+![](general_job_schedule_setting_3.3.jpg)
+![](general_job_schedule_setting_detail_3.3.jpg)
+
+* 系统增加Epicor Learning Center便于学习
+https://erpcustomer.epicor.com
+
+* 系统提供Excel导入功能
+
+![](general_import_with_excel_3.3.jpg)
+![](general_import_template_setting_with_excel_3.3.jpg)
