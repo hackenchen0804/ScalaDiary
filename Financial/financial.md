@@ -32,3 +32,15 @@
   ![](financial_add_field_in_po_line_define_detail_sf454_3.0.jpg)
   3. 在程序中添加字段内容，需要修改order template。
   ![](financial_add_field_in_po_line_func_sf454_3.0.jpg)
+
+* 系统提供参数控制当订单头发货日期更新，明细行中的发货日期是否更新。
+  ![](financial_update_delivery_date_3.0.jpg)
+
+* snap search中可以查询新增的用户自定义字段
+  ![](financial_snap_search_user_define_field_3.0.jpg)
+
+* 当销售订单状态为8同时打开特殊如功能475 -  SALES ORDER - Print Return Notes时，系统提供Print Return Note打印这些订单，同时在历史中也可以重复打印。
+  ![](financial_print_return_notes_3.0.jpg)
+  ![](financial_print_return_notes_func_3.0.jpg)
+  ![](financial_print_return_notes_func_detail_3.0.jpg)
+  ![](financial_print_return_notes_func_history_3.0.jpg)
