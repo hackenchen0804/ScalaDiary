@@ -44,3 +44,41 @@
   ![](financial_print_return_notes_func_3.0.jpg)
   ![](financial_print_return_notes_func_detail_3.0.jpg)
   ![](financial_print_return_notes_func_history_3.0.jpg)
+
+* 设置各种文档产生文件名的模板,文档列表如下：<br/>
+1 - Sales Order Invoice/Credit Note<br/>
+2 - Consolidated Sales Order Invoice/Credit Note<br/>
+3 - Service Order Invoice/Credit Note<br/>
+4 - Purchase Order<br/>
+5 - Sales Order Invoice/Credit Note (History)<br/>
+6 - Advance Invoice<br/>
+7 - Prepayment Invoice<br/>
+8 - Consolidated Service Order Invoice/Credit Note<br/>
+9 - Contract Invoice/Credit Note<br/>
+10 - Consolidated Contract Invoice/Credit Note<br/>
+11 - Project Invoice<br/>
+12 - Sales Order Quotation<br/>
+13 - Sales Order Confirmation<br/>
+14 - Sales Order Delivery Note<br/>
+15 - Proforma Invoice<br/>
+16 - Request for Quotation (PC)<br/>
+17 - Reminder Confirmation (PC)<br/>
+18 - Reminder Delivery (PC)<br/>
+19 - Sales Ledger Statement/Reminder<br/>
+20 - Purchase Ledger Statement<br/>
+21 - Purchase Ledger Cheque Register<br/>
+22 - Purchase Ledger Automatic Payment <br/>
+23 - Payment Notification per Supplier<br/>
+24 - Interest Invoice<br/>
+25 - Consolidated Invoice/Credit Note<br/>
+  ![](financial_print_filename_template_func_3.2.jpg)
+  ![](financial_print_filename_template_func_detail_3.2.jpg)
+  ![](financial_print_filename_template_result_3.2.jpg)
+
+* 采购分类账和销售分类账付款反冲
+  ![](financial_sl_pl_paid_reserve_sf487_sf488_3.0.jpg)
+  ![](financial_sl_pl_paid_reserve_func_3.0.jpg)
+  ![](financial_sl_pl_paid_reserve_func1_3.0.jpg)
+  ![](financial_sl_pl_paid_reserve_func_step1_3.0.jpg)
+  ![](financial_sl_pl_paid_reserve_func_step2_3.0.jpg)
+  ![](financial_sl_pl_paid_reserve_func_step3_3.0.jpg)
