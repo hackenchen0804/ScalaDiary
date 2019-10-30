@@ -82,3 +82,15 @@
   ![](financial_sl_pl_paid_reserve_func_step1_3.0.jpg)
   ![](financial_sl_pl_paid_reserve_func_step2_3.0.jpg)
   ![](financial_sl_pl_paid_reserve_func_step3_3.0.jpg)
+
+* 总帐凭证添加复制功能
+  ![](financial_gl_copy_transaction_3.1.jpg)
+  ![](financial_gl_copy_transaction_select_source_3.1.jpg)
+  ![](financial_gl_copy_transaction_result_3.1.jpg)
+
+* 使用ST命令可以查看销售订单或者采购订单的Text内容
+  ![](financial_sales_order_text_more_func_3.1.jpg)
+  ![](financial_purchase_order_text_more_func_3.1.jpg)
+
+* 增强了查询客户信息的权限控制
+  ![](financial_customer_enquire_limit_3.2.jpg)
