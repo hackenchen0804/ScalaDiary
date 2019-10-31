@@ -1,4 +1,5 @@
-
+# iScala 3.3 财务设置更新
+************************
 * 物料代码输入和调整权限已经分开，在Admin console里面可以控制。
 ![](financial_enter_and_adjust_stock_seprate_3.0.jpg)
 
