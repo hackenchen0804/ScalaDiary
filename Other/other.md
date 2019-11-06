@@ -14,3 +14,11 @@
   ![](other_delivery_note_template_func.jpg)
   ![](other_delivery_note_template_func_header.jpg)
   ![](other_delivery_note_template_func_detail.jpg)
+
+* Average Cost Group设置可以使得在采用加权平均成本模型时，多仓库的成本统一计算，避免多个仓库成本不一致的情况。
+  ![](other_average_cost_group_setting.jpg)
+  ![](other_average_cost_group_setting_detail.jpg)
+  ![](other_average_cost_group_setting_in_wh_definition.jpg)
+  ![](other_average_cost_group_op_01.jpg)
+  ![](other_average_cost_group_op_02.jpg)
+  ![](other_average_cost_group_op_result.jpg)
